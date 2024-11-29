@@ -1,6 +1,6 @@
 <img src="https://github.com/Flozomaster/Flozomaster/blob/main/banner-github.png" alt="Hi, I'm Florent TAHI">
 
-<h1>Welcome to my Github profile0, 👋</h1>
+<h1>Welcome to my Github profile, 👋</h1>
 <p><h3>A passionate fullstack developer from Côte d'Ivoire</h3></p>
 <h1>✒️Presentation Message</h1>
 <h1>🚀 Languages and Tools I Use</h1>
