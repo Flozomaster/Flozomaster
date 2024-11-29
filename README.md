@@ -3,6 +3,10 @@
 <h1>Welcome to my Github profile, 👋</h1>
 <p><h3>A passionate fullstack developer from Côte d'Ivoire</h3></p>
 <h1>✒️Presentation Message</h1>
+<p>I’m a full stack developer. With 10 years of experience in web development, I have a strong command over both front-end and back-end technologies, allowing me to build complete and scalable applications.
+On the front-end side, I specialize in HTML, CSS, and JavaScript frameworks such as React and Angular. I’m passionate about creating intuitive user interfaces that provide an exceptional user experience. I pay great attention to detail, ensuring that the websites or applications I develop are responsive, visually appealing, and accessible across different devices and browsers.
+Moving to the back end, I’m proficient in server-side languages like Python, Java, or Node.js. I have extensive experience working with databases such as MySQL, PostgreSQL, and MongoDB, and I can design efficient database structures and write optimized queries. I’m familiar with RESTful APIs and know how to integrate them into applications to enable seamless communication between the front end and back end.
+Additionally, I have expertise in version control systems like Git, and I’m comfortable working in collaborative environments using Agile methodologies. I enjoy staying up to date with the latest trends and technologies in the web development world, as it allows me to continually improve my skills and deliver cutting-edge solutions.</p>
 <h1>🚀 Languages and Tools I Use</h1>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
