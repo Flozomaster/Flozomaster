@@ -41,7 +41,7 @@ the web development world.</p>
 <ul>
 <li><a target="_blank" href=""></a></li>-->
 <h1>⚡️ Where to find me</h1>
-<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/florent-tahi" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<p><a target="_blank" href="https://www.linkedin.com/in/florent-tahi" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/Florent TAHI" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
 <h1>⚡️ Statistics</h1>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Flozomaster&show_icons=true&locale=en" alt="Flozomaster" /></p>
