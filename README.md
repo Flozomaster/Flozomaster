@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/Flozomaster/Flozomaster/main/banner-github.png" alt="Hi, I'm Florent TAHI">
+<img src="https://user-images.githubusercontent.com/Flozomaster/Flozomaster/blob/main/banner-github.png" alt="Hi, I'm Florent TAHI">
 
 <h1>Hi 👋, I'm Florent TAHI</h1>
 <p><h3>A passionate fullstack developer from Côte d'Ivoire</h3></p>
