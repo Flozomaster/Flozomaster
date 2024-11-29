@@ -1,7 +1,7 @@
 <img src="https://github.com/Flozomaster/Flozomaster/blob/main/banner-github.png" alt="Hi, I'm Florent TAHI">
 
 <h1>Welcome to my Github profile, 👋</h1>
-<p><h3>A passionate fullstack developer from Côte d'Ivoire</h3></p>
+<p>A passionate fullstack developer from Côte d'Ivoire</p>
 <h1>✒️Presentation Message</h1>
 <p>I’m a full stack developer. With 10 years of experience in web development, I have a strong command over both front-end and back-end technologies, allowing me to build complete and scalable applications.
 On the front-end side, I specialize in HTML, CSS, and JavaScript frameworks such as React and Angular. I’m passionate about creating intuitive user interfaces that provide an exceptional user experience. I pay great attention to detail, ensuring that the websites or applications I develop are responsive, visually appealing, and accessible across different devices and browsers.
